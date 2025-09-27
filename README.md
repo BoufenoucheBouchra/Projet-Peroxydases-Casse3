@@ -27,4 +27,4 @@ L'objectif de ce projet est de caractériser les peroxydases de **classe III** e
 
 ## Contenu
 Ce dépôt contient uniquement les **diapositives de présentation** du projet.  
-Elles résument les étapes, les analyses et les résultats obtenus. (caractérisation de la famille des peroxydases de classe III-avec compression.pdf)
+Elles résument les étapes, les analyses et les résultats obtenus. 
